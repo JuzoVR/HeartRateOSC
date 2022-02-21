@@ -1,5 +1,7 @@
 # Heart rate monitor to OSC VRChat
 
+This is for use with Polar H10
+
 ### Initial Steps
 
 - `pip install -r requirements.txt`
